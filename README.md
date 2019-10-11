@@ -2,7 +2,7 @@
 Biomedical Organ Segmentation on multiple organs using V-net model
 
 # Collaborator
-Prayushi Mathur, Vraj Patel
+Vraj Patel, Prayushi Mathur
 
 This repository contains the file related to Multiple Organ Segmentation using V-net model.
 
